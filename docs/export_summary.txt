@@ -1,0 +1,10 @@
+[GLEXPORT] uppergarden: 3343 active mesh instances, roots=58
+[GLEXPORT] uppergarden SUMMARY: instances=3343 primitives=4126 verts=19107458 tris=11556135 binBytes=796920243 json=D:/My Programs/Unity Programs/cuhk_sz_models_backup/gltf_export\uppergarden\uppergarden.gltf
+[GLEXPORT] DONE uppergarden in 22s
+[GLEXPORT] middlegarden: 2924 active mesh instances, roots=7
+[GLEXPORT] middlegarden SUMMARY: instances=2924 primitives=3161 verts=26708009 tris=10579008 binBytes=706927481 json=D:/My Programs/Unity Programs/cuhk_sz_models_backup/gltf_export\middlegarden\middlegarden.gltf
+[GLEXPORT] DONE middlegarden in 20s
+[GLEXPORT] undergarden: 5625 active mesh instances, roots=52
+[GLEXPORT] undergarden SUMMARY: instances=5625 primitives=7206 verts=8966056 tris=5166989 binBytes=426529522 json=D:/My Programs/Unity Programs/cuhk_sz_models_backup/gltf_export\undergarden\undergarden.gltf
+[GLEXPORT] DONE undergarden in 23s
+[GLEXPORT] ALL DONE, failures=0

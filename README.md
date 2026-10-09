@@ -96,5 +96,14 @@ sha256sum uppergarden.bin
 
 - Extracted 2026-10-04 from Unity project `aicuhk` (Unity 6000.2.10f1), scenes `uppergarden.unity`, `middlegarden.unity`, `undergarden.unity`.
 - Export pipeline: temporary Unity editor script (batch mode) → glTF 2.0 with embedded textures; verified headlessly in Blender 5.0 (all textures load, geometry counts match); previews rendered with Blender workbench engine.
-- The 3D models were created by the original virtual-campus project team (campus meshes exported in 2025, props modeled in Blender 4.4). If you reuse them, please keep this attribution and contact the repository owner before redistributing beyond coursework or research use.
+- The 3D models were created by the original virtual-campus project team (campus meshes exported in 2025, props modeled in Blender 4.4). If you reuse them, please keep this attribution — this is required by the [license](#license).
 - Personal identifiers (Windows usernames embedded in the FBX `DocumentUrl` metadata of the source files) were redacted before publishing via same-length byte replacement; file sizes and structure are unchanged.
+
+## License
+
+This repository (converted scene assets, tool scripts, and documentation) is licensed under the
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) — see [LICENSE](LICENSE).
+
+You are free to use, adapt, and redistribute the assets for any purpose, including commercially,
+**provided you give appropriate credit**: credit the original virtual-campus project team and this
+repository, link the license, and indicate if you made changes (see [Provenance](#provenance)).
